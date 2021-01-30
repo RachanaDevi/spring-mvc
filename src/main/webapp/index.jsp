@@ -10,6 +10,6 @@
 <br/>
 <a href="${pageContext.request.contextPath}/hello">Hello Servlet</a>
 <br/>
-<a href="${pageContext.request.contextPath}/showForm">Hello World Form</a>
+<a href="${pageContext.request.contextPath}/hello/showForm">Hello World Form</a>
 </body>
 </html>
