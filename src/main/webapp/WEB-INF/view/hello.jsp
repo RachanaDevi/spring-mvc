@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Hello</title>
 </head>
 <body>
-<h1><%= "This should be another page which I am trying to find" %>
+<h1><%= "HELLO THIS TOOK ME SO MUCH TIME I HATE CACHE" %>
 </h1>
 </body>
 </html>
