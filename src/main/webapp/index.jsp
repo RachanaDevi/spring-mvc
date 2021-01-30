@@ -9,5 +9,7 @@
 </h1>
 <br/>
 <a href="${pageContext.request.contextPath}/hello">Hello Servlet</a>
+<br/>
+<a href="${pageContext.request.contextPath}/showForm">Hello World Form</a>
 </body>
 </html>
