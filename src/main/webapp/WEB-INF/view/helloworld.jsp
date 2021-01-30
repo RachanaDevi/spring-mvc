@@ -6,5 +6,6 @@
 <body>
 <h1>Hello to the world of Spring!</h1>
 <h2>Student name: ${param.studentName}</h2>
+<h2>Message: ${message}</h2>
 </body>
 </html>
